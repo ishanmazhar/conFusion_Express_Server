@@ -1,5 +1,6 @@
 var express = require('express');
 var router = express.Router();
+var a = 7; 
 
 
 /* GET home page. */
